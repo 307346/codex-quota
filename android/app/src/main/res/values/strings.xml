@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Codex 额度管家</string>
+
+    <string name="notif_channel_service">额度激活</string>
+    <string name="notif_channel_service_desc">执行定时激活时显示的前台通知</string>
+    <string name="notif_channel_alerts">提醒与异常</string>
+    <string name="notif_channel_alerts_desc">激活结果、登录失效等事件</string>
+
+    <string name="notif_service_title">正在激活额度</string>
+    <string name="notif_service_text">正在与 Codex 通信…</string>
+</resources>
