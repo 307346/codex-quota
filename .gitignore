@@ -9,5 +9,6 @@ captures/
 .cxx/
 *.keystore
 *.jks
+keystore.properties
 *.apk
 *.log
